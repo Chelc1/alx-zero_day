@@ -1,1 +1,2 @@
-# alx-zero_day
+**ALX day 1**
+*Shirley Zindoga*
